@@ -1,6 +1,6 @@
 package ex01;
 
-public class TestCalc01 {
+public class TestCar01 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
