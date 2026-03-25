@@ -39,7 +39,12 @@ public class TestMember {
 		
 		mList[0].info();
 		mList[1].info();
-		mList[2].info();		
+		mList[2].info();	
+		
+		for(int i = 0; i < mList.length; i++) {
+			Member member = mList[i];
+			member.info();
+		}
 		
 		System.out.println("---------------------------------------------------");
 		
