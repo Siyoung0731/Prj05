@@ -45,7 +45,10 @@ public class TestMember {
 			Member member = mList[i];
 			member.info();
 		}
-		
+		//forEach문
+		for(Member member : mList) {
+			member.info();	
+		}
 		System.out.println("---------------------------------------------------");
 		
 
