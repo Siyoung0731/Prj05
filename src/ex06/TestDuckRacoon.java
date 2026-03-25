@@ -8,7 +8,7 @@ class Duck {
 }
 // 너구리 - 코드 없이 만듬 : abstract
 // 모든 항목이 abstract 인 abstract class 는 interface 문법으로 변경 가능
-// extends 클래스 implements 는 interface1, interface2 ... 가능
+// implements는 여러 개 구현 가능, extends는 다중 상속 불가
 /*
 abstract class Racoon {
 	abstract void dig();
