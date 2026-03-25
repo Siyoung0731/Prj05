@@ -47,7 +47,7 @@ public class TestAnimal {
 
 	
 //--------------------------------------------------
-/*
+/*  //overload : 하나의 메소드 이름으로 여러 기능을 구현
 	// 방법 1 : 함수의 overload 기능 활용
 	private static void work(Dog d, String name) {
 		// TODO Auto-generated method stub
