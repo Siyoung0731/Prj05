@@ -1,8 +1,10 @@
 package ex03;
 
 class Dog {
-	String name;
-	void eat() {
+	// data
+	String name; 
+	// 기능
+	void eat() { 
 		System.out.println(name +"가 사료를 먹는다.");
 	}
 	void bark() {
